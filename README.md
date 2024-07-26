@@ -74,11 +74,3 @@ I'm a passionate full-stack developer with a keen interest in building robust an
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Kolayeswanth&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kolayeswanth&theme=tokyonight&hide_border=true)<br/>
-
-
-
-
-<!---
-lakshman7781/lakshman7781 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
