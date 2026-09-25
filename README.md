@@ -221,14 +221,13 @@ Areas I'm exploring:
 * ⚙️ AI-assisted backend systems
 
 ---
-
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kolayeswanth&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Kolayeswanth&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kolayeswanth&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kolayeswanth&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
 
 </div>
 
@@ -236,26 +235,14 @@ Areas I'm exploring:
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kolayeswanth&theme=tokyonight" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=Kolayeswanth&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
-
----
-
-## 🏆 GitHub Profile Trophy
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Kolayeswanth&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
-
-</div>
-
----
 
 ## 🎯 Currently Focused On
 
 ```text
-AI Engineering        ████████████████████
+AI Engineering         ████████████████████
 Backend Engineering    ██████████████████░░
 Cloud / GCP            █████████████████░░░
 Cybersecurity          ████████████████░░░░
